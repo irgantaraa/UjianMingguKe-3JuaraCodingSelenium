@@ -130,6 +130,10 @@ You can add additional test scenarios by extending the test classes (`LoginTest`
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+# Test Scenarios Google Sheet
+# You can view the test scenarios documented in the following Google Sheet:
+"View the test scenarios here: https://docs.google.com/spreadsheets/d/15163Jwcj73jElUpOVxPjHr_Py5em-9fWa60BbagRU_o/edit?gid=1763640593#gid=1763640593"
+
 # Video Tutorial
 # YouTube video tutorial for this project: 
 "Watch the video tutorial: https://youtu.be/nOXQjUj_shs"
