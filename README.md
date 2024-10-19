@@ -132,7 +132,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 # Test Scenarios Google Sheet
 # You can view the test scenarios documented in the following Google Sheet:
-"View the test scenarios here: https://docs.google.com/spreadsheets/d/15163Jwcj73jElUpOVxPjHr_Py5em-9fWa60BbagRU_o/edit?gid=1763640593#gid=1763640593"
+"View the test scenarios here: https://tinyurl.com/4w6bp9yv"
 
 # Video Tutorial
 # YouTube video tutorial for this project: 
